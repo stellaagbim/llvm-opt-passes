@@ -1,0 +1,31 @@
+# Build Directories (CMake)
+build/
+out/
+cmake-build-debug/
+
+# LLVM/C++ Compilation Artifacts
+*.so
+*.dylib
+*.dll
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+
+# Temporary & Cache Files
+CMakeCache.txt
+CMakeFiles/
+*.cmake
+install_manifest.txt
+Makefile
+
+# IDE & Editor Settings (Local only)
+.vscode/
+.idea/
+*.swp
+
+# OS System Files
+.DS_Store
+Thumbs.db
+.DS_Store
