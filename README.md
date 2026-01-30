@@ -2,7 +2,7 @@
 
 **Author:** Stella Agbim
 
-A collection of out-of-tree LLVM optimization passes targeting the **LLVM New Pass Manager (NPM)**. This project implements fundamental scalar optimizations—constant folding, loop unrolling, and redundancy elimination—demonstrating direct interaction with LLVM's Intermediate Representation (IR), analysis subsystems, and transformation APIs.
+A collection of out-of-tree LLVM optimization passes targeting the **LLVM New Pass Manager (NPM)**. This project implements fundamental scalar optimizations constant folding, loop unrolling, and redundancy elimination—demonstrating direct interaction with LLVM's Intermediate Representation (IR), analysis subsystems, and transformation APIs.
 
 ## Project Motivation
 
